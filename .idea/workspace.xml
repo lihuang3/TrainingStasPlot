@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="addf5741-edc3-4140-a0b5-ad063a723c05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bandplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bandplot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig/Maze0318-v0_eplen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig/MazeEnv-v0_eplen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fig/MazeEnv-v0_rew.png" beforeDir="false" />
-    </list>
+    <list default="true" id="addf5741-edc3-4140-a0b5-ad063a723c05" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2311" />
     <option name="y" value="40" />
     <option name="width" value="1420" />
@@ -143,7 +136,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-7" width="1488" height="878" extended-state="7" />
+    <frame x="1913" y="-7" width="1488" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14393939" />
