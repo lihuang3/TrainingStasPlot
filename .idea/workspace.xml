@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="addf5741-edc3-4140-a0b5-ad063a723c05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boxplot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bandplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bandplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boxplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/boxplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fig/Maze0318-v0/Maze0318-v0_eplen.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig/Maze0318-v0/Maze0318-v0_eplen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fig/Maze0318-v0/Maze0318-v0_eprew.png" beforeDir="false" afterPath="$PROJECT_DIR$/fig/Maze0318-v0/Maze0318-v0_eprew.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger/Maze0318-v0-ICM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/logger/Maze0318-v0-ICM.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger/Maze1203-v3-ICM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/logger/Maze1203-v3-ICM.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger/progress-2019-04-04-10-49-37-529310.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,23 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bandplot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="26" />
-              <folding>
-                <element signature="e#134#472#0" />
-              </folding>
+            <state relative-caret-position="343">
+              <caret line="231" selection-start-line="231" selection-end-line="231" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/boxplot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+            <state relative-caret-position="566">
+              <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -52,6 +55,11 @@
       <find>sub</find>
       <find>fon</find>
       <find>lim</find>
+      <find>16</find>
+      <find>moving_avg</find>
+      <find>line</find>
+      <find>*=sc</find>
+      <find>num upda</find>
     </findStrings>
     <replaceStrings>
       <replace>3</replace>
@@ -63,16 +71,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bandplot.py" />
         <option value="$PROJECT_DIR$/boxplot.py" />
+        <option value="$PROJECT_DIR$/bandplot.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1615" />
-    <option name="y" value="182" />
-    <option name="width" value="1383" />
-    <option name="height" value="905" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1925" />
+    <option name="width" value="1845" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -86,7 +93,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Data_Science_Project/examples/process0303.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -108,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.boxplot">
+  <component name="RunManager" selected="Python.bandplot">
     <configuration name="bandplot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ThesisPlot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,8 +160,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.boxplot" />
         <item itemvalue="Python.bandplot" />
+        <item itemvalue="Python.boxplot" />
       </list>
     </recent_temporary>
   </component>
@@ -181,15 +188,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1676" y="146" width="1106" height="724" extended-state="0" />
+    <frame x="1913" y="-7" width="1488" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1953271" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14256199" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49896193" weight="0.37605396" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49896193" weight="0.30120483" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39966273" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -253,16 +260,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bandplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="26" />
-          <folding>
-            <element signature="e#134#472#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Data_Science_Project/examples/process0303.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -272,8 +269,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/boxplot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        <state relative-caret-position="566">
+          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bandplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="231" selection-start-line="231" selection-end-line="231" />
         </state>
       </provider>
     </entry>
