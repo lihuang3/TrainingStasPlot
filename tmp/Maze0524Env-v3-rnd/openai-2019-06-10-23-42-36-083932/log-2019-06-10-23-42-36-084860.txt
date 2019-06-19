@@ -1,0 +1,1430 @@
+Logging to /project/becker/lihuang3/github/curiosity-learning/logs/Maze0524Env-v3-rnd/openai-2019-06-10-23-42-36-083932
+episode recordings saved to  /project/becker/lihuang3/github/curiosity-learning/experiments/env0_0.pk
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -14.4       |
+| epcount             | 704         |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -17.7       |
+| eprew_recent        | -17.7       |
+| eprew_std           | 0.635       |
+| n_updates           | 1           |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -14.4       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.16829956 |
+| tcount              | 6.34e+04    |
+| total_secs          | 696         |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -13.6       |
+| epcount             | 1.41e+03    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -17.7       |
+| eprew_recent        | -17.7       |
+| eprew_std           | 0.655       |
+| n_updates           | 2           |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -13.6       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.18632884 |
+| tcount              | 1.27e+05    |
+| total_secs          | 1.38e+03    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -13.6       |
+| epcount             | 2.11e+03    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -17.6       |
+| eprew_recent        | -17.6       |
+| eprew_std           | 0.713       |
+| n_updates           | 3           |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -14.4       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.18727264 |
+| tcount              | 1.9e+05     |
+| total_secs          | 2.07e+03    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | -13.6      |
+| epcount             | 2.82e+03   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | -17.6      |
+| eprew_recent        | -17.6      |
+| eprew_std           | 0.692      |
+| n_updates           | 4          |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | -14.6      |
+| recent_worst_eplen  | 90         |
+| rew_mean            | -0.1874355 |
+| tcount              | 2.53e+05   |
+| total_secs          | 2.75e+03   |
+------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | -13.6      |
+| epcount             | 3.55e+03   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | -17.6      |
+| eprew_recent        | -17.5      |
+| eprew_std           | 0.693      |
+| n_updates           | 5          |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | -14.6      |
+| recent_worst_eplen  | 90         |
+| rew_mean            | -0.1869916 |
+| tcount              | 3.2e+05    |
+| total_secs          | 3.43e+03   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -13.2       |
+| epcount             | 4.26e+03    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -17.3       |
+| eprew_recent        | -17.4       |
+| eprew_std           | 0.764       |
+| n_updates           | 6           |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -13.2       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.18550912 |
+| tcount              | 3.83e+05    |
+| total_secs          | 4.1e+03     |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -13.2       |
+| epcount             | 4.96e+03    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -17.1       |
+| eprew_recent        | -17.2       |
+| eprew_std           | 0.826       |
+| n_updates           | 7           |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -14.6       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.18229672 |
+| tcount              | 4.46e+05    |
+| total_secs          | 4.78e+03    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -12.2       |
+| epcount             | 5.66e+03    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -17         |
+| eprew_recent        | -17         |
+| eprew_std           | 0.987       |
+| n_updates           | 8           |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -12.2       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.18076745 |
+| tcount              | 5.1e+05     |
+| total_secs          | 5.46e+03    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -12.2       |
+| epcount             | 6.37e+03    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -16.8       |
+| eprew_recent        | -16.8       |
+| eprew_std           | 1.22        |
+| n_updates           | 9           |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -12.2       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.17783225 |
+| tcount              | 5.73e+05    |
+| total_secs          | 6.13e+03    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -11.1       |
+| epcount             | 7.1e+03     |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -16.1       |
+| eprew_recent        | -16.3       |
+| eprew_std           | 1.29        |
+| n_updates           | 10          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -11.1       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.17300375 |
+| tcount              | 6.39e+05    |
+| total_secs          | 6.8e+03     |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -9.88       |
+| epcount             | 7.81e+03    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -16         |
+| eprew_recent        | -16.1       |
+| eprew_std           | 1.45        |
+| n_updates           | 11          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -9.88       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.17020182 |
+| tcount              | 7.03e+05    |
+| total_secs          | 7.48e+03    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -7.84       |
+| epcount             | 8.51e+03    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -15.3       |
+| eprew_recent        | -15.3       |
+| eprew_std           | 1.5         |
+| n_updates           | 12          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -7.84       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.16152698 |
+| tcount              | 7.66e+05    |
+| total_secs          | 8.15e+03    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -7.84       |
+| epcount             | 9.22e+03    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -14.7       |
+| eprew_recent        | -14.7       |
+| eprew_std           | 1.58        |
+| n_updates           | 13          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -8.78       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.15334173 |
+| tcount              | 8.29e+05    |
+| total_secs          | 8.82e+03    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -7.84       |
+| epcount             | 9.95e+03    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -13.5       |
+| eprew_recent        | -13.6       |
+| eprew_std           | 2.11        |
+| n_updates           | 14          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -7.84       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.14238091 |
+| tcount              | 8.96e+05    |
+| total_secs          | 9.49e+03    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | -6.44      |
+| epcount             | 1.07e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | -12.9      |
+| eprew_recent        | -12.5      |
+| eprew_std           | 1.76       |
+| n_updates           | 15         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | -6.44      |
+| recent_worst_eplen  | 90         |
+| rew_mean            | -0.1308976 |
+| tcount              | 9.59e+05   |
+| total_secs          | 1.02e+04   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -3.47       |
+| epcount             | 1.14e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -11.7       |
+| eprew_recent        | -11.3       |
+| eprew_std           | 1.63        |
+| n_updates           | 16          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -3.47       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.11606941 |
+| tcount              | 1.02e+06    |
+| total_secs          | 1.08e+04    |
+-------------------------------------
+--------------------------------------
+| best_eplen          | 90           |
+| best_ext_ret        | -2.22        |
+| epcount             | 1.21e+04     |
+| eplen               | 90           |
+| eplen_std           | 0            |
+| eprew               | -9.91        |
+| eprew_recent        | -9.76        |
+| eprew_std           | 2.41         |
+| n_updates           | 17           |
+| recent_best_eplen   | 90           |
+| recent_best_ext_ret | -2.22        |
+| recent_worst_eplen  | 90           |
+| rew_mean            | -0.099528864 |
+| tcount              | 1.09e+06     |
+| total_secs          | 1.15e+04     |
+--------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | -2.22       |
+| epcount             | 1.28e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -8.64       |
+| eprew_recent        | -8.54       |
+| eprew_std           | 2.37        |
+| n_updates           | 18          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | -2.53       |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.08586573 |
+| tcount              | 1.15e+06    |
+| total_secs          | 1.22e+04    |
+-------------------------------------
+--------------------------------------
+| best_eplen          | 90           |
+| best_ext_ret        | 0.125        |
+| epcount             | 1.35e+04     |
+| eplen               | 90           |
+| eplen_std           | 0            |
+| eprew               | -7.54        |
+| eprew_recent        | -7.21        |
+| eprew_std           | 2.39         |
+| n_updates           | 19           |
+| recent_best_eplen   | 90           |
+| recent_best_ext_ret | 0.125        |
+| recent_worst_eplen  | 90           |
+| rew_mean            | -0.073340215 |
+| tcount              | 1.22e+06     |
+| total_secs          | 1.29e+04     |
+--------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 1.06        |
+| epcount             | 1.42e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -6.02       |
+| eprew_recent        | -5.93       |
+| eprew_std           | 1.79        |
+| n_updates           | 20          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 1.06        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.05834716 |
+| tcount              | 1.28e+06    |
+| total_secs          | 1.35e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 1.06        |
+| epcount             | 1.49e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | -5.26       |
+| eprew_recent        | -5.23       |
+| eprew_std           | 2.06        |
+| n_updates           | 21          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 1.06        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | -0.05071112 |
+| tcount              | 1.34e+06    |
+| total_secs          | 1.42e+04    |
+-------------------------------------
+--------------------------------------
+| best_eplen          | 90           |
+| best_ext_ret        | 2.16         |
+| epcount             | 1.56e+04     |
+| eplen               | 90           |
+| eplen_std           | 0            |
+| eprew               | -3.95        |
+| eprew_recent        | -4.3         |
+| eprew_std           | 1.87         |
+| n_updates           | 22           |
+| recent_best_eplen   | 90           |
+| recent_best_ext_ret | 2.16         |
+| recent_worst_eplen  | 90           |
+| rew_mean            | -0.039984632 |
+| tcount              | 1.41e+06     |
+| total_secs          | 1.49e+04     |
+--------------------------------------
+--------------------------------------
+| best_eplen          | 90           |
+| best_ext_ret        | 2.16         |
+| epcount             | 1.64e+04     |
+| eplen               | 90           |
+| eplen_std           | 0            |
+| eprew               | -3.35        |
+| eprew_recent        | -3.19        |
+| eprew_std           | 1.94         |
+| n_updates           | 23           |
+| recent_best_eplen   | 90           |
+| recent_best_ext_ret | 2            |
+| recent_worst_eplen  | 90           |
+| rew_mean            | -0.028862443 |
+| tcount              | 1.47e+06     |
+| total_secs          | 1.56e+04     |
+--------------------------------------
+--------------------------------------
+| best_eplen          | 90           |
+| best_ext_ret        | 2.94         |
+| epcount             | 1.71e+04     |
+| eplen               | 90           |
+| eplen_std           | 0            |
+| eprew               | -2.19        |
+| eprew_recent        | -2.45        |
+| eprew_std           | 1.78         |
+| n_updates           | 24           |
+| recent_best_eplen   | 90           |
+| recent_best_ext_ret | 2.94         |
+| recent_worst_eplen  | 90           |
+| rew_mean            | -0.022543103 |
+| tcount              | 1.54e+06     |
+| total_secs          | 1.62e+04     |
+--------------------------------------
+--------------------------------------
+| best_eplen          | 90           |
+| best_ext_ret        | 3.88         |
+| epcount             | 1.78e+04     |
+| eplen               | 90           |
+| eplen_std           | 0            |
+| eprew               | -1.32        |
+| eprew_recent        | -1.9         |
+| eprew_std           | 1.75         |
+| n_updates           | 25           |
+| recent_best_eplen   | 90           |
+| recent_best_ext_ret | 3.88         |
+| recent_worst_eplen  | 90           |
+| rew_mean            | -0.013755133 |
+| tcount              | 1.6e+06      |
+| total_secs          | 1.69e+04     |
+--------------------------------------
+--------------------------------------
+| best_eplen          | 90           |
+| best_ext_ret        | 3.88         |
+| epcount             | 1.85e+04     |
+| eplen               | 90           |
+| eplen_std           | 0            |
+| eprew               | -1.63        |
+| eprew_recent        | -1.53        |
+| eprew_std           | 1.7          |
+| n_updates           | 26           |
+| recent_best_eplen   | 90           |
+| recent_best_ext_ret | 3.25         |
+| recent_worst_eplen  | 90           |
+| rew_mean            | -0.009027991 |
+| tcount              | 1.66e+06     |
+| total_secs          | 1.76e+04     |
+--------------------------------------
+----------------------------------------
+| best_eplen          | 90             |
+| best_ext_ret        | 4.19           |
+| epcount             | 1.92e+04       |
+| eplen               | 90             |
+| eplen_std           | 0              |
+| eprew               | -0.553         |
+| eprew_recent        | -0.605         |
+| eprew_std           | 1.6            |
+| n_updates           | 27             |
+| recent_best_eplen   | 90             |
+| recent_best_ext_ret | 4.19           |
+| recent_worst_eplen  | 90             |
+| rew_mean            | -0.00085797673 |
+| tcount              | 1.73e+06       |
+| total_secs          | 1.83e+04       |
+----------------------------------------
+--------------------------------------
+| best_eplen          | 90           |
+| best_ext_ret        | 4.34         |
+| epcount             | 1.99e+04     |
+| eplen               | 90           |
+| eplen_std           | 0            |
+| eprew               | 0.0187       |
+| eprew_recent        | -0.264       |
+| eprew_std           | 1.55         |
+| n_updates           | 28           |
+| recent_best_eplen   | 90           |
+| recent_best_ext_ret | 4.34         |
+| recent_worst_eplen  | 90           |
+| rew_mean            | 0.0011726532 |
+| tcount              | 1.79e+06     |
+| total_secs          | 1.89e+04     |
+--------------------------------------
+--------------------------------------
+| best_eplen          | 90           |
+| best_ext_ret        | 4.34         |
+| epcount             | 2.06e+04     |
+| eplen               | 90           |
+| eplen_std           | 0            |
+| eprew               | 0.263        |
+| eprew_recent        | 0.152        |
+| eprew_std           | 1.61         |
+| n_updates           | 29           |
+| recent_best_eplen   | 90           |
+| recent_best_ext_ret | 4.19         |
+| recent_worst_eplen  | 90           |
+| rew_mean            | 0.0074834735 |
+| tcount              | 1.85e+06     |
+| total_secs          | 1.96e+04     |
+--------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 4.81       |
+| epcount             | 2.13e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 0.897      |
+| eprew_recent        | 0.523      |
+| eprew_std           | 1.54       |
+| n_updates           | 30         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 4.81       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.01214578 |
+| tcount              | 1.92e+06   |
+| total_secs          | 2.03e+04   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 5.59        |
+| epcount             | 2.2e+04     |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 0.678       |
+| eprew_recent        | 0.746       |
+| eprew_std           | 1.44        |
+| n_updates           | 31          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 5.59        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.013706652 |
+| tcount              | 1.98e+06    |
+| total_secs          | 2.1e+04     |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 5.59        |
+| epcount             | 2.28e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 0.766       |
+| eprew_recent        | 0.943       |
+| eprew_std           | 1.36        |
+| n_updates           | 32          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 5.28        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.015831582 |
+| tcount              | 2.05e+06    |
+| total_secs          | 2.16e+04    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 6.53       |
+| epcount             | 2.35e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 0.686      |
+| eprew_recent        | 1.15       |
+| eprew_std           | 1.41       |
+| n_updates           | 33         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 6.53       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.01582527 |
+| tcount              | 2.11e+06   |
+| total_secs          | 2.23e+04   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 6.53        |
+| epcount             | 2.42e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 1.33        |
+| eprew_recent        | 1.22        |
+| eprew_std           | 1.49        |
+| n_updates           | 34          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 5.44        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.019874226 |
+| tcount              | 2.17e+06    |
+| total_secs          | 2.3e+04     |
+-------------------------------------
+-----------------------------------
+| best_eplen          | 90        |
+| best_ext_ret        | 6.53      |
+| epcount             | 2.49e+04  |
+| eplen               | 90        |
+| eplen_std           | 0         |
+| eprew               | 1.74      |
+| eprew_recent        | 1.55      |
+| eprew_std           | 1.26      |
+| n_updates           | 35        |
+| recent_best_eplen   | 90        |
+| recent_best_ext_ret | 6.38      |
+| recent_worst_eplen  | 90        |
+| rew_mean            | 0.0239579 |
+| tcount              | 2.24e+06  |
+| total_secs          | 2.36e+04  |
+-----------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 6.53        |
+| epcount             | 2.56e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 1.44        |
+| eprew_recent        | 1.63        |
+| eprew_std           | 1.41        |
+| n_updates           | 36          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.22        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.023405842 |
+| tcount              | 2.3e+06     |
+| total_secs          | 2.43e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 6.53        |
+| epcount             | 2.63e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 1.54        |
+| eprew_recent        | 1.61        |
+| eprew_std           | 1.28        |
+| n_updates           | 37          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 5.44        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.020831771 |
+| tcount              | 2.37e+06    |
+| total_secs          | 2.5e+04     |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 6.53       |
+| epcount             | 2.7e+04    |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 1.5        |
+| eprew_recent        | 1.98       |
+| eprew_std           | 1.26       |
+| n_updates           | 38         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 6.38       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.02662708 |
+| tcount              | 2.43e+06   |
+| total_secs          | 2.57e+04   |
+------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 7          |
+| epcount             | 2.77e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 2.19       |
+| eprew_recent        | 1.88       |
+| eprew_std           | 1.39       |
+| n_updates           | 39         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 7          |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.02691405 |
+| tcount              | 2.49e+06   |
+| total_secs          | 2.63e+04   |
+------------------------------------
+-----------------------------------
+| best_eplen          | 90        |
+| best_ext_ret        | 7         |
+| epcount             | 2.84e+04  |
+| eplen               | 90        |
+| eplen_std           | 0         |
+| eprew               | 1.57      |
+| eprew_recent        | 1.89      |
+| eprew_std           | 1.35      |
+| n_updates           | 40        |
+| recent_best_eplen   | 90        |
+| recent_best_ext_ret | 5.44      |
+| recent_worst_eplen  | 90        |
+| rew_mean            | 0.0273131 |
+| tcount              | 2.56e+06  |
+| total_secs          | 2.7e+04   |
+-----------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7           |
+| epcount             | 2.92e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 1.97        |
+| eprew_recent        | 2.03        |
+| eprew_std           | 1.08        |
+| n_updates           | 41          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.22        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.026356716 |
+| tcount              | 2.62e+06    |
+| total_secs          | 2.77e+04    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 7          |
+| epcount             | 2.99e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 2.59       |
+| eprew_recent        | 2.05       |
+| eprew_std           | 1.36       |
+| n_updates           | 42         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 6.84       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.02539642 |
+| tcount              | 2.69e+06   |
+| total_secs          | 2.84e+04   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7           |
+| epcount             | 3.06e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 1.96        |
+| eprew_recent        | 2.22        |
+| eprew_std           | 1.36        |
+| n_updates           | 43          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.06        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.031146046 |
+| tcount              | 2.75e+06    |
+| total_secs          | 2.9e+04     |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7           |
+| epcount             | 3.13e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.48        |
+| eprew_recent        | 2.35        |
+| eprew_std           | 1.16        |
+| n_updates           | 44          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.06        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.032032136 |
+| tcount              | 2.81e+06    |
+| total_secs          | 2.97e+04    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 7          |
+| epcount             | 3.2e+04    |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 2.43       |
+| eprew_recent        | 2.53       |
+| eprew_std           | 1.47       |
+| n_updates           | 45         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 6.84       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.03362556 |
+| tcount              | 2.88e+06   |
+| total_secs          | 3.05e+04   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7           |
+| epcount             | 3.27e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.25        |
+| eprew_recent        | 2.14        |
+| eprew_std           | 1.02        |
+| n_updates           | 46          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.06        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.026076378 |
+| tcount              | 2.94e+06    |
+| total_secs          | 3.13e+04    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 7          |
+| epcount             | 3.34e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 2.88       |
+| eprew_recent        | 2.8        |
+| eprew_std           | 0.972      |
+| n_updates           | 47         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 6.69       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.03600874 |
+| tcount              | 3.01e+06   |
+| total_secs          | 3.22e+04   |
+------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 7          |
+| epcount             | 3.41e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 2.66       |
+| eprew_recent        | 2.37       |
+| eprew_std           | 1.05       |
+| n_updates           | 48         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 6.69       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.03140114 |
+| tcount              | 3.07e+06   |
+| total_secs          | 3.3e+04    |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7           |
+| epcount             | 3.48e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.52        |
+| eprew_recent        | 2.58        |
+| eprew_std           | 1.29        |
+| n_updates           | 49          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 5.75        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.033771582 |
+| tcount              | 3.13e+06    |
+| total_secs          | 3.37e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7           |
+| epcount             | 3.56e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.2         |
+| eprew_recent        | 2.94        |
+| eprew_std           | 1.48        |
+| n_updates           | 50          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.53        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.037532154 |
+| tcount              | 3.2e+06     |
+| total_secs          | 3.44e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7           |
+| epcount             | 3.63e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.79        |
+| eprew_recent        | 2.68        |
+| eprew_std           | 1.09        |
+| n_updates           | 51          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.53        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.032180734 |
+| tcount              | 3.26e+06    |
+| total_secs          | 3.5e+04     |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 7          |
+| epcount             | 3.7e+04    |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 2.81       |
+| eprew_recent        | 2.42       |
+| eprew_std           | 1.36       |
+| n_updates           | 52         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 6.84       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.03288978 |
+| tcount              | 3.33e+06   |
+| total_secs          | 3.57e+04   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7.62        |
+| epcount             | 3.77e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.14        |
+| eprew_recent        | 2.49        |
+| eprew_std           | 1.14        |
+| n_updates           | 53          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 7.62        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.034130067 |
+| tcount              | 3.39e+06    |
+| total_secs          | 3.64e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7.62        |
+| epcount             | 3.84e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.79        |
+| eprew_recent        | 3.01        |
+| eprew_std           | 1.04        |
+| n_updates           | 54          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.38        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.037863277 |
+| tcount              | 3.45e+06    |
+| total_secs          | 3.71e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7.62        |
+| epcount             | 3.91e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.4         |
+| eprew_recent        | 2.64        |
+| eprew_std           | 1.25        |
+| n_updates           | 55          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.84        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.032295667 |
+| tcount              | 3.52e+06    |
+| total_secs          | 3.77e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7.62        |
+| epcount             | 3.98e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.27        |
+| eprew_recent        | 3.07        |
+| eprew_std           | 1.09        |
+| n_updates           | 56          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.69        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.038882703 |
+| tcount              | 3.58e+06    |
+| total_secs          | 3.84e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7.62        |
+| epcount             | 4.05e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.56        |
+| eprew_recent        | 2.66        |
+| eprew_std           | 1.18        |
+| n_updates           | 57          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 7.31        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.034205914 |
+| tcount              | 3.65e+06    |
+| total_secs          | 3.91e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7.62        |
+| epcount             | 4.12e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.73        |
+| eprew_recent        | 3.29        |
+| eprew_std           | 1.13        |
+| n_updates           | 58          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 7.31        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.042470068 |
+| tcount              | 3.71e+06    |
+| total_secs          | 3.98e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 7.78        |
+| epcount             | 4.2e+04     |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.31        |
+| eprew_recent        | 3.15        |
+| eprew_std           | 1.22        |
+| n_updates           | 59          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 7.78        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.039291315 |
+| tcount              | 3.78e+06    |
+| total_secs          | 4.04e+04    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 8.09       |
+| epcount             | 4.27e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 2.92       |
+| eprew_recent        | 3          |
+| eprew_std           | 1.06       |
+| n_updates           | 60         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 8.09       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.03562842 |
+| tcount              | 3.84e+06   |
+| total_secs          | 4.11e+04   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.09        |
+| epcount             | 4.34e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3           |
+| eprew_recent        | 2.81        |
+| eprew_std           | 1.28        |
+| n_updates           | 61          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.06        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.037213996 |
+| tcount              | 3.9e+06     |
+| total_secs          | 4.18e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.09        |
+| epcount             | 4.41e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.8         |
+| eprew_recent        | 3.12        |
+| eprew_std           | 1.24        |
+| n_updates           | 62          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.53        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.040508308 |
+| tcount              | 3.97e+06    |
+| total_secs          | 4.24e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.09        |
+| epcount             | 4.48e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.19        |
+| eprew_recent        | 3.38        |
+| eprew_std           | 1.21        |
+| n_updates           | 63          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 7           |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.043485474 |
+| tcount              | 4.03e+06    |
+| total_secs          | 4.31e+04    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 8.09       |
+| epcount             | 4.55e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 2.84       |
+| eprew_recent        | 2.93       |
+| eprew_std           | 1.1        |
+| n_updates           | 64         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 6.53       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.03409418 |
+| tcount              | 4.1e+06    |
+| total_secs          | 4.38e+04   |
+------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 8.09       |
+| epcount             | 4.62e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 3.46       |
+| eprew_recent        | 3.22       |
+| eprew_std           | 1.1        |
+| n_updates           | 65         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 7.16       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.04059303 |
+| tcount              | 4.16e+06   |
+| total_secs          | 4.45e+04   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 4.69e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.11        |
+| eprew_recent        | 3.32        |
+| eprew_std           | 1.13        |
+| n_updates           | 66          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 8.25        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.041310906 |
+| tcount              | 4.22e+06    |
+| total_secs          | 4.51e+04    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 8.25       |
+| epcount             | 4.76e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 3.42       |
+| eprew_recent        | 3.01       |
+| eprew_std           | 1.27       |
+| n_updates           | 67         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 7.16       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.03939831 |
+| tcount              | 4.29e+06   |
+| total_secs          | 4.58e+04   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 4.84e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.02        |
+| eprew_recent        | 3.09        |
+| eprew_std           | 1.43        |
+| n_updates           | 68          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.38        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.038317256 |
+| tcount              | 4.35e+06    |
+| total_secs          | 4.65e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 4.91e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.02        |
+| eprew_recent        | 2.85        |
+| eprew_std           | 0.861       |
+| n_updates           | 69          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.38        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.033931825 |
+| tcount              | 4.42e+06    |
+| total_secs          | 4.71e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 4.98e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.12        |
+| eprew_recent        | 3.37        |
+| eprew_std           | 1.19        |
+| n_updates           | 70          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.84        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.043699127 |
+| tcount              | 4.48e+06    |
+| total_secs          | 4.78e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 5.05e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.77        |
+| eprew_recent        | 3.02        |
+| eprew_std           | 1.18        |
+| n_updates           | 71          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.84        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.039071284 |
+| tcount              | 4.54e+06    |
+| total_secs          | 4.85e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 5.12e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.93        |
+| eprew_recent        | 3.29        |
+| eprew_std           | 0.989       |
+| n_updates           | 72          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.22        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.041963134 |
+| tcount              | 4.61e+06    |
+| total_secs          | 4.92e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 5.19e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.62        |
+| eprew_recent        | 3.14        |
+| eprew_std           | 1.33        |
+| n_updates           | 73          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.84        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.036914106 |
+| tcount              | 4.67e+06    |
+| total_secs          | 4.98e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 5.26e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.42        |
+| eprew_recent        | 3.38        |
+| eprew_std           | 1.24        |
+| n_updates           | 74          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.69        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.042271983 |
+| tcount              | 4.73e+06    |
+| total_secs          | 5.05e+04    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 8.25       |
+| epcount             | 5.33e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 3.93       |
+| eprew_recent        | 3.36       |
+| eprew_std           | 1.28       |
+| n_updates           | 75         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 7.47       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.04150502 |
+| tcount              | 4.8e+06    |
+| total_secs          | 5.12e+04   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 5.4e+04     |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.58        |
+| eprew_recent        | 3.52        |
+| eprew_std           | 1.05        |
+| n_updates           | 76          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 7.62        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.045317426 |
+| tcount              | 4.86e+06    |
+| total_secs          | 5.18e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 5.48e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.08        |
+| eprew_recent        | 2.93        |
+| eprew_std           | 1.04        |
+| n_updates           | 77          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 5.91        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.036563896 |
+| tcount              | 4.93e+06    |
+| total_secs          | 5.25e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 5.55e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.33        |
+| eprew_recent        | 3.02        |
+| eprew_std           | 0.906       |
+| n_updates           | 78          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.84        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.035800427 |
+| tcount              | 4.99e+06    |
+| total_secs          | 5.32e+04    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 8.25       |
+| epcount             | 5.62e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 3.93       |
+| eprew_recent        | 3.26       |
+| eprew_std           | 1.16       |
+| n_updates           | 79         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 7          |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.04271442 |
+| tcount              | 5.05e+06   |
+| total_secs          | 5.39e+04   |
+------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 5.69e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.82        |
+| eprew_recent        | 3.27        |
+| eprew_std           | 1.72        |
+| n_updates           | 80          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 7.31        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.041916125 |
+| tcount              | 5.12e+06    |
+| total_secs          | 5.45e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 5.76e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.8         |
+| eprew_recent        | 3.18        |
+| eprew_std           | 1.51        |
+| n_updates           | 81          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 7.31        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.040743187 |
+| tcount              | 5.18e+06    |
+| total_secs          | 5.52e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 5.83e+04    |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 2.89        |
+| eprew_recent        | 2.92        |
+| eprew_std           | 1.19        |
+| n_updates           | 82          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 6.06        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.034251392 |
+| tcount              | 5.25e+06    |
+| total_secs          | 5.59e+04    |
+-------------------------------------
+-------------------------------------
+| best_eplen          | 90          |
+| best_ext_ret        | 8.25        |
+| epcount             | 5.9e+04     |
+| eplen               | 90          |
+| eplen_std           | 0           |
+| eprew               | 3.23        |
+| eprew_recent        | 3.29        |
+| eprew_std           | 1.34        |
+| n_updates           | 83          |
+| recent_best_eplen   | 90          |
+| recent_best_ext_ret | 7.16        |
+| recent_worst_eplen  | 90          |
+| rew_mean            | 0.041300412 |
+| tcount              | 5.31e+06    |
+| total_secs          | 5.65e+04    |
+-------------------------------------
+------------------------------------
+| best_eplen          | 90         |
+| best_ext_ret        | 8.25       |
+| epcount             | 5.97e+04   |
+| eplen               | 90         |
+| eplen_std           | 0          |
+| eprew               | 4.01       |
+| eprew_recent        | 3.31       |
+| eprew_std           | 0.993      |
+| n_updates           | 84         |
+| recent_best_eplen   | 90         |
+| recent_best_ext_ret | 7.62       |
+| recent_worst_eplen  | 90         |
+| rew_mean            | 0.04181689 |
+| tcount              | 5.37e+06   |
+| total_secs          | 5.72e+04   |
+------------------------------------
