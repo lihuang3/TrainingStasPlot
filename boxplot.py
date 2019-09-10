@@ -4,7 +4,8 @@ dir = os.getcwd()
 import matplotlib.pyplot as plt
 import numpy as np, pandas
 
-scale_dict = {'0318': np.sqrt(55167/2869), '0318v1':np.sqrt(55167/2869),'1203v2':np.sqrt(60321/7169), '1203v3':np.sqrt(60321/7169), '0122v1':np.sqrt(35055/22593)}
+scale_dict = {'0318': np.sqrt(55167/2869), '0318v1':np.sqrt(55167/2869),'1203v2':np.sqrt(60321/7169), \
+    '1203v3':np.sqrt(60321/7169), '0122v1':np.sqrt(35055/22593)}
 # DRL: 64 agents, ICM
 eplen_py = {'0318': 60.3, '0318v1':52.1, '1203v2':93.8, '1203v3':112.0, '0122v1':351.25}
 eplen_std_py = {'0318':0.553, '0318v1':1.51, '1203v2': 3.15, '1203v3':8.57, '0122v1':47.13}
