@@ -6,7 +6,7 @@ import numpy as np, pandas
 
 
 def big_fcn():
-    def moving_avg(arr, window=10):
+    def moving_avg(arr, window=4):
         pad_arr = np.append(arr[0]*np.ones(int(window/2)), arr)
         pad_arr = np.append(pad_arr, arr[-1]*np.ones(int(window/2)))
         pad_arr2 = np.empty((np.shape(arr)[0], window))
@@ -26,7 +26,7 @@ def big_fcn():
     filename = env + '-PPO.csv'
     algo = 'PPO'
     # Load data from log
-    rawdata = pandas.read_csv(os.path.join(dir,'logger', filename), header=0, engine='python')
+    rawdata = pandas.read_csv(os.path.join(dir,'logger','maze', filename), header=0, engine='python')
     variables = ['nupdates', 'time_elapsed', 'total_timesteps', 'serial_timesteps', \
                  'eprewmean', 'epbestlen', \
                  'eplenmean','curbestrew', 'epbestrew']
@@ -86,7 +86,7 @@ def big_fcn():
     filename = env + '-ICM.csv'
     algo = 'ICM'
     # Load data from log
-    rawdata3 = pandas.read_csv(os.path.join(dir,'logger', filename), header=0, engine='python')
+    rawdata3 = pandas.read_csv(os.path.join(dir,'logger', 'maze', filename), header=0, engine='python')
     variables3 = ['n_updates', 'total_secs', 'tcount', \
                   'eplen', 'best_eplen', 'recent_best_eplen', \
                   'eprew','recent_best_ext_ret', 'best_ext_ret', 'eprew_recent']
@@ -119,7 +119,7 @@ def big_fcn():
         exit()
 
 
-    mean, std = moving_avg(dataset3[:,var_dict3[y_label]], window=8)
+    mean, std = moving_avg(dataset3[:,var_dict3[y_label]], window=4)
     axs[0].plot(dataset3[:,var_dict3[x_label]],  mean, linewidth=3 ,color='magenta',label=algo)
     axs[0].fill_between(dataset3[:,var_dict3[x_label]],  mean-std, mean+std, color='plum')
     axs[0].plot(dataset3[:,var_dict3[x_label]],  dataset3[:,var_dict3[y2_label]], '--', linewidth=2 ,color='magenta',label=algo+' best')
@@ -135,7 +135,7 @@ def big_fcn():
     else:
         print('Scope %s not found!'%(scope))
         exit()
-    mean, std = moving_avg(dataset3[:,var_dict3[y_label]], window=8)
+    mean, std = moving_avg(dataset3[:,var_dict3[y_label]], window=4)
     axs[1].plot(dataset3[:,var_dict3[x_label]],  mean, linewidth=3 , color='magenta',label=algo)
     axs[1].fill_between(dataset3[:,var_dict3[x_label]],  mean-std, mean+std, color='plum')
     axs[1].plot(dataset3[:,var_dict3[x_label]],  dataset3[:,var_dict3[y2_label]], '--', linewidth=2 ,color='magenta',label=algo+' best')
@@ -175,7 +175,7 @@ def big_fcn():
         else:
             print('Scope %s not found!'%(scope))
             exit()
-        mean, std = moving_avg(dataset2[:,var_dict2[y_label]], window=8)
+        mean, std = moving_avg(dataset2[:,var_dict2[y_label]], window=4)
         axs[0].plot(dataset2[:,var_dict2[x_label]],  mean, linewidth=3 ,color='orange',label=algo)
         axs[0].fill_between(dataset2[:,var_dict2[x_label]],  mean-std, mean+std, color='moccasin')
 
@@ -188,7 +188,7 @@ def big_fcn():
         else:
             print('Scope %s not found!'%(scope))
             exit()
-        mean, std = moving_avg(dataset2[:,var_dict2[y_label]], window=8)
+        mean, std = moving_avg(dataset2[:,var_dict2[y_label]], window=4)
         axs[1].plot(dataset2[:,var_dict2[x_label]],  mean, linewidth=3 , color='orange',label=algo)
         axs[1].fill_between(dataset2[:,var_dict2[x_label]],  mean-std, mean+std, color='moccasin')
 
@@ -198,47 +198,52 @@ def big_fcn():
     #============================================================
     if scope == 'eplen':
         ylabel = 'Episode Length'
+        axs[0].legend(loc="center right", prop={'size': 24})
+        axs[1].legend(loc="center right", prop={'size': 24})
     elif scope == 'eprew':
         ylabel = 'Episode Reward'
-    axs[0].set_title('Training Stats', fontsize=16)
-    axs[0].set_xlabel('Time (h)', fontsize=16)
-    axs[0].set_ylabel(ylabel, fontsize=16)
-    axs[0].tick_params(labelsize=16)
-    axs[0].legend(loc="center right",prop={'size': 16})
+        axs[0].legend(loc="center right", prop={'size': 24})
+        axs[1].legend(loc="center right", prop={'size': 24})
+    axs[0].set_xlabel('Time (h)', fontsize=24)
+    axs[0].set_ylabel(ylabel, fontsize=24)
+    axs[0].ticklabel_format(style='sci', axis='x', scilimits=(0, 0))
+    axs[0].tick_params(labelsize=24)
+    axs[0].xaxis.offsetText.set_fontsize(24)
 
-    axs[1].set_title('Training Stats', fontsize=16)
-    axs[1].set_xlabel('Time Steps', fontsize=16)
-    axs[1].set_ylabel(ylabel, fontsize=16)
-    axs[1].tick_params(labelsize=16)
-    axs[1].legend(loc="center right",prop={'size': 16})
+    axs[1].set_xlabel('Rollouts', fontsize=24)
+    axs[1].set_ylabel(ylabel, fontsize=24)
+    axs[1].ticklabel_format(style='sci', axis='x', scilimits=(0, 0))
+    axs[1].tick_params(labelsize=24)
+    axs[1].xaxis.offsetText.set_fontsize(24)
 
     f.tight_layout()
     f.subplots_adjust(
-        top=0.924,
-        bottom=0.14,
-        left=0.089,
-        right=0.971,
+        top=0.977,
+        bottom=0.121,
+        left=0.062,
+        right=0.992,
         hspace=0.2,
-        wspace=0.233
+        wspace=0.146
     )
     # plt.show()
-    plt.savefig(figpath)
+    plt.savefig(figpath, pad_inches=0.0, dpi=100)
 
 
 #==========================================================
 """"Configurations"""
-envs = ['Maze0318-v0', 'Maze0318-v1','Maze1203-v2','Maze1203-v3','Maze1204-v0','Maze1204-v1','MazeEnv-v0', 'MazeEnv-v2','FishWeir-v0']
+envs = ['Maze0318-v0', 'Maze0318-v1','Maze1203-v2','Maze1203-v3','MazeEnv-v0', 'MazeEnv-v2','FishWeir-v0']
 scopes = ['eplen', 'eprew']
 scalings = np.array([np.sqrt(55167/2869), np.sqrt(55167/2869), np.sqrt(60321/7169), np.sqrt(60321/7169), np.sqrt(60321/13060), np.sqrt(60321/13060), 1.0, 1.0, 1.0], dtype=np.float32)
 for env_id, env in enumerate(envs):
- for scope in scopes:
-    scale = scalings[env_id]
-    f, axs = plt.subplots(1, 2, figsize=(12, 5))
-    os.makedirs(os.path.join(dir, 'fig', env), exist_ok=True)
+    print(env)
+    for scope in scopes:
+        scale = scalings[env_id]
+        f, axs = plt.subplots(1, 2, figsize=(24, 8))
+        os.makedirs(os.path.join(dir, 'fig', env), exist_ok=True)
 
-    include_best = True
-    tag=  env + '_%s.png'%(scope)
-    figpath = os.path.join(dir, 'fig', env, tag)
-    best_res = True
-    big_fcn()
+        include_best = True
+        tag=  env + '_%s.png'%(scope)
+        figpath = os.path.join(dir, 'fig', env, tag)
+        best_res = True
+        big_fcn()
     #-----------------------------------------------------------

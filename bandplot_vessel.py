@@ -51,7 +51,8 @@ def big_fcn(filename, subdir='vessel'):
 
         ylabel = 'Episode Reward'
         # axs.set_title('Training Stats', fontsize=16)
-        axs.set_xlabel(x_label, fontsize=24)
+        xlabel_dict = {'epcount':'Epsodes', 'tcount':'Rollouts'}
+        axs.set_xlabel(xlabel_dict[x_label], fontsize=24)
         axs.set_ylabel(ylabel, fontsize=24)
         axs.ticklabel_format(style='sci', axis='x', scilimits=(0, 0))
         axs.xaxis.offsetText.set_fontsize(24)
